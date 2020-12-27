@@ -1,0 +1,5 @@
+C:\Users\Victor\source\repos\LabPr\Debug\LabPr.vcxprojAssemblyReference.cache
+C:\Users\Victor\source\repos\LabPr\Debug\LabPr.exe
+C:\Users\Victor\source\repos\LabPr\Debug\LabPr.pdb
+C:\Users\Victor\source\repos\LabPr\Debug\LabPr.MyForm.resources
+C:\Users\Victor\source\repos\LabPr\Debug\LabPr.vcxproj.GenerateResource.cache

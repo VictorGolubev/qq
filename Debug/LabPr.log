@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\Victor\source\repos\LabPr\MyForm.h(1025,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Victor\source\repos\LabPr\MyForm.h(1093,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Victor\source\repos\LabPr\MyForm.h(1178,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Victor\source\repos\LabPr\MyForm.h(1321,105): warning C4838: Преобразование из "char" в "unsigned char" требует сужающего преобразования.
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  LabPr.vcxproj -> C:\Users\Victor\source\repos\LabPr\Debug\LabPr.exe
